@@ -1,2 +1,2 @@
-# lyric-app
-hi
+# LyriK
+Always be kara-OK 
